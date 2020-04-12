@@ -5,4 +5,7 @@
  * Khai báo địa chỉ với server: git remote add origin
  */
 
+<<<<<<< HEAD
  console.log("demo git dev 1 ");
+ console.log("demo git dev 2");
+
